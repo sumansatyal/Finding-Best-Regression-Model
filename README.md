@@ -1,3 +1,5 @@
+The highest value of $R^2$, calculated at the end of each model, wins.
+
 # $R^2$
 ---
 
